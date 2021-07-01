@@ -1,0 +1,64 @@
+body{
+    text-align: center;
+}
+my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+#schoolpic{
+    width: 75%;
+}
+#map{
+    width: 100%;
+}
+#principalimg{
+    width: 350px;
+    height: 350px;
+}
+#campuslife{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+#campuslife img{
+    width: 25%;
+}
+#campuslife hr{
+    width: 230px;
+}
+#campuslife h5,#campuslife p{
+    margin-left: 20px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width:100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: yellow;
+}
+#imgachievement{
+    width: 50%
+}
+.environment_li{
+    margin-top: 13px;
+}
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.environment_li p{
+    margin-top: 10px;
+}
+.environment_li img{
+    border-radius: 25px;
+    width: 20%;
+}
